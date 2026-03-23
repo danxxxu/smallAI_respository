@@ -1,0 +1,1404 @@
+[
+  {
+    "project_name": "AfriBERTa",
+    "values": "accessibility, preserving indigenous language",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://github.com/castorini/afriberta",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "a multilingual language model released in 2021, trained on 11 Indigenous African languages and less than 1 GB of text.",
+    "self-description:_what_&_who_it_is_useful_for": "AfriBERTa helps to fill this gap by enabling computers to analyze text of African languages for many useful tasks. The model specifically covers 11 languages, including Amharic, Hausa, and Swahili, spoken collectively by more than 400 million people. Importantly, AfriBERTa achieves output quality comparable to the best existing models despite learning from just one gigabyte of text, whereas other models require thousands of times more data.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://uwaterloo.ca/computer-science/news/afriberta",
+    "strategies,_values_(multiple,_comma_separated)": "accessibility, preserving indigenous language",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "AI + Alliance",
+    "values": "feminist ethics, gender justice, grassroots innovation, regional equity",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://aplusalliance.org/wp-content/uploads/2024/12/LAC-HUB-2021-2024-1.pdf",
+    "type_of_project": "Feminist AI initiative",
+    "type_of_organization_behind_the_project": "Non-profit consortium",
+    "self-description_of_\"smallness\"": "Regionally-rooted, locally-run initiatives",
+    "self-description:_what_&_who_it_is_useful_for": "Feminist technologists and communities in Latin America",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://aplusalliance.org/wp-content/uploads/2024/12/LAC-HUB-2021-2024-1.pdf",
+    "strategies,_values_(multiple,_comma_separated)": "feminist ethics, gender justice, grassroots innovation, regional equity",
+    "notes": "Collective of seven LAC-based feminist AI projects",
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "AI decolonial Manyfesto",
+    "values": "decoloniality, imagination, multiplicity, participation",
+    "value_clusters": [
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://manyfesto.ai/",
+    "type_of_project": "Manifesto",
+    "type_of_organization_behind_the_project": "Activist collective",
+    "self-description_of_\"smallness\"": "Multiplicity, open-endedness, decentralization",
+    "self-description:_what_&_who_it_is_useful_for": "Communities imagining alternative AI futures",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://manyfesto.ai/",
+    "strategies,_values_(multiple,_comma_separated)": "decoloniality, imagination, multiplicity, participation",
+    "notes": "This manifesto is a provocation, a question,",
+    "umbrella_category": "Research & Thought-Leadership"
+  },
+  {
+    "project_name": "AI Nüshu",
+    "values": "ancestral knowledge, artistic ai, cultural preservation, feminist ethics",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://thecvf-art.com/project/ai-nushu-ai%E5%A5%B3%E4%B9%A6-2023/",
+    "type_of_project": "Model / Artistic project",
+    "type_of_organization_behind_the_project": "Artist Yuqian Sun",
+    "self-description_of_\"smallness\"": "Honors marginal, gendered knowledges and vernacular expression",
+    "self-description:_what_&_who_it_is_useful_for": "Artists, researchers, feminist technologists",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://arxiv.org/abs/2310.11870",
+    "strategies,_values_(multiple,_comma_separated)": "ancestral knowledge, artistic ai, cultural preservation, feminist ethics",
+    "notes": "Trained to imitate 19th century female speech in China as a way to defy patriarchal structures",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Aymurai",
+    "values": "feminist ethics, gender justice",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://www.aymurai.info/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "NGO",
+    "self-description_of_\"smallness\"": "AymurAI is an open-source software that helps criminal courts collect open data on GBV from court rulings in Latin America.",
+    "self-description:_what_&_who_it_is_useful_for": "Prototype for an open and gender-sensitive justice in Latin America – AymurAI”",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://aplusalliance.org/feminist-ai-papers/",
+    "strategies,_values_(multiple,_comma_separated)": "feminist ethics, gender justice",
+    "notes": "https://github.com/AymurAI",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "all‑MiniLM‑L6‑v2 (22M)",
+    "values": "efficiency, open-source",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Microsoft",
+    "self-description_of_\"smallness\"": "Minimal-sized (22M), embedding focus",
+    "self-description:_what_&_who_it_is_useful_for": "Semantic search, clustering, recommendations",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "efficiency, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Alpaca",
+    "values": "community-driven, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Stanford University",
+    "self-description_of_\"smallness\"": "Fine-tuned from LLaMA-7B on 52K instruction examples using self-instruct — small data + modest compute",
+    "self-description:_what_&_who_it_is_useful_for": "Provides ChatGPT-like performance at low cost, ideal for researcher",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://medium.com/predict/the-surprising-rise-of-tiny-ai-59be99129e9e",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "ARIES",
+    "values": "ecological sustainability, interdisciplinarity, systems thinking",
+    "value_clusters": [
+      "Green AI"
+    ],
+    "project_url": "https://aries.integratedmodelling.org/",
+    "type_of_project": "Education",
+    "type_of_organization_behind_the_project": "Non-profit",
+    "self-description_of_\"smallness\"": "Promotes context-specific, localized sustainability analysis",
+    "self-description:_what_&_who_it_is_useful_for": "Scientists and policy analysts solving sustainability problems with AI",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Chat GPT search",
+    "strategies,_values_(multiple,_comma_separated)": "ecological sustainability, interdisciplinarity, systems thinking",
+    "notes": "Integrates environmental and socio-economic data for informed policy making",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Aymur AI",
+    "values": "anti-violence, data justice, feminist ethics, prevention, safety",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://www.aymurai.info/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Feminist tech alliance (f<a+i>r)",
+    "self-description_of_\"smallness\"": "Regional, impact-driven pilot project",
+    "self-description:_what_&_who_it_is_useful_for": "Gender justice advocates and data scientists in Latin America",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://aplusalliance.org/aymur-ai-measuring-gender-based-violence-in-latin-america/",
+    "strategies,_values_(multiple,_comma_separated)": "anti-violence, data justice, feminist ethics, prevention, safety",
+    "notes": "First step in detecting GBV patterns using AI",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "BigScience / BLOOM",
+    "values": "inclusive, multilingual, open science, responsible ai, transparent",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact"
+    ],
+    "project_url": "https://huggingface.co/bigscience/bloom",
+    "type_of_project": NaN,
+    "type_of_organization_behind_the_project": "Open Research Collaboration",
+    "self-description_of_\"smallness\"": NaN,
+    "self-description:_what_&_who_it_is_useful_for": "A multilingual, open-access large language model developed collaboratively by over 1,000 researchers.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "inclusive, multilingual, open science, responsible ai, transparent",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Botchen (Denotation UG)",
+    "values": "sustainability, open-source, ecofeminism",
+    "value_clusters": ["Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"],
+    "project_url": "botchen.org",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Independent small company (sustainable “solarpunk” AI startup)",
+    "self-description_of_\"smallness\"": "“Technologically, Botchen promotes what we call ‘algorithmic diversity’… At the time of writing, it is around 400,000 times smaller than the big LLMs. This means it can run on a home laptop and can be used by anybody, regardless of financial resources, and with minimal environmental impact.”",
+    "self-description:_what_&_who_it_is_useful_for": "“Denotation is developing tiny, specialised chatbots that can be trained from scratch on a home computer. Those chatbots do not make any use of the large corporate solutions, at any point in their development process. They are designed to run on CPUs, so no special hardware is needed.”denotation.eu",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.denotation.eu/",
+    "strategies,_values_(multiple,_comma_separated)": "sustainability, open-source, ecofeminism",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "ClimateBert",
+    "values": "domain-specific, research, transparency",
+    "value_clusters": [
+      "Small Data, Big Impact"
+    ],
+    "project_url": "https://www.chatclimate.ai/climatebert",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "Using the DistilRoBERTa model as starting point, the ClimateBERT language model is additionally pretrained on a text corpus comprising climate-related research paper abstracts, corporate and general news and reports from companies.",
+    "self-description:_what_&_who_it_is_useful_for": "The additional downstream tasks that ClimateBERT is fine-tuned on could serve various use cases. For example, it could aid financial supervisors in assessing the state of corporate climate risk disclosures. Or it could support supervisory agencies and other stakeholders in their recent activities to detect corporate greenwashing activities. Financial analysts might use ClimateBERT to identify a company's climate risks and opportunities, and assess the specificity of their climate-related claims. The outputs from the various classification tasks can also be combined into further indicators, such as a cheap talk index by combining the commitment and specificity results.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "GPT 03 deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "domain-specific, research, transparency",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Data Ecofeminism",
+    "values": "ecofeminism, intersectional justice, technological alternatives",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://facctconference.org/static/docs/facct2025-206archivalpdfs/facct2025-final139-acmpaginated.pdf",
+    "type_of_project": "Ana Valdivia",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "Critical rethinking of GenAI’s proliferation through an ecofeminist framing,",
+    "self-description:_what_&_who_it_is_useful_for": "Scholars and practitioners in AI ethics, ecofeminism, and data justice",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://facctconference.org/static/docs/facct2025-206archivalpdfs/facct2025-final139-acmpaginated.pdf",
+    "strategies,_values_(multiple,_comma_separated)": "ecofeminism, intersectional justice, technological alternatives",
+    "notes": "Introduces seven data ecofeminist principles for AI research",
+    "umbrella_category": "Research & Thought-Leadership"
+  },
+  {
+    "project_name": "Data Feminism for AI",
+    "values": "data justice, ethical ai, feminist ethics, intersectionality",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://facctconference.org/static/papers24/facct24-7.pdf",
+    "type_of_project": NaN,
+    "type_of_organization_behind_the_project": "Lauren Klein & Catherine D'Ignazio",
+    "self-description_of_\"smallness\"": "Proposes intersectional feminist principles as foundational to AI research",
+    "self-description:_what_&_who_it_is_useful_for": "AI researchers and ethicists seeking inclusive research methodologies",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "FAccT 2024 Conference",
+    "strategies,_values_(multiple,_comma_separated)": "data justice, ethical ai, feminist ethics, intersectionality",
+    "notes": "Builds on the foundational text \"Data Feminism\" by D’Ignazio and Klein",
+    "umbrella_category": "Research & Thought-Leadership"
+  },
+  {
+    "project_name": "Divvun/Giellatekno – Sámi Language Technology Project",
+    "values": "community-driven, indigenous, preservation",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://multilingual.com/magazine/october-2024/the-sami-case-study/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "“In northern Europe, research groups like Divvun and Giellatekno received funding… to develop digital support for the Indigenous Sámi languages, including spellcheckers, predictive text systems, and machine translation. Native speakers developed the project, and since deployment, [it] has proven to be a crucial tool for people in Sápmi, Greenland, and the Faroe Islands.”brookings.edu",
+    "self-description:_what_&_who_it_is_useful_for": "“These applications form the basis of our support of the Saami communities with current language tools… Our practical goal is to support the teaching, learning and use of the Saami languages and to make current language technology accessible.”giellatekno.uit.no",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.brookings.edu/articles/can-small-language-models-revitalize-indigenous-languages/#:~:text=,Greenland%2C%20and%20the%20Faroe%20Islands",
+    "strategies,_values_(multiple,_comma_separated)": "community driven, indigenous, preservation",
+    "notes": "developed GiellaLT infrastructure and built the model on it",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "E.D.I.A.",
+    "values": "bias, community-centered, feminist ethics, justice",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://huggingface.co/spaces/vialibre/edia",
+    "type_of_project": "Toolkit (model + teaching materials)",
+    "type_of_organization_behind_the_project": "Education",
+    "self-description_of_\"smallness\"": "E.D.I.A., as a prototype model,was co-created with teachers, workshops where conducted and structured content and teaching materials were developed for their 2023 workshops.",
+    "self-description:_what_&_who_it_is_useful_for": "E.D.I.A. is a toolkit that allows people without technical expertise, but with lived experience to explore, characterize and audit biases and stereotypes in language models. During this newest pilot phase E.D.I.A. will co-create then publish structured content and teaching materials so that E.D.I.A. methods can be replicated for other languages and contexts.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://aplusalliance.org/feminist-ai-papers/",
+    "strategies,_values_(multiple,_comma_separated)": "bias, community-centered, feminist ethics, justice",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Feminist AI",
+    "values": "accessibility, community tech, equity, intersectionality, justice",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://www.feminist.ai/",
+    "type_of_project": "Community-led tech collective",
+    "type_of_organization_behind_the_project": "Non-profit",
+    "self-description_of_\"smallness\"": "Community-based, intergenerational, BIPOC- and LGBTQIA+-centered",
+    "self-description:_what_&_who_it_is_useful_for": "Makers, researchers, and learners aiming to co-create inclusive AI",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.feminist.ai/",
+    "strategies,_values_(multiple,_comma_separated)": "accessibility, community tech, equity, intersectionality, justice",
+    "notes": "Feminist AI™ works to put technology into the hands of makers, researchers, thinkers and learners to amplify unheard voices and create more accessible AI for all.",
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Feminist Data Set",
+    "values": "feminist ethics, inclusive, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://carolinesinders.com/feminist-data-set/",
+    "type_of_project": NaN,
+    "type_of_organization_behind_the_project": "Caroline Sinders",
+    "self-description_of_\"smallness\"": "Feminist Data Set is a multi-year project that interrogates every step of the AI process that includes data collection, data labeling, data training, selecting an algorithm to use, the algorithmic model, and then designing how the model is then placed into a chat bot (and what the chatbot looks like). Every step exists to question and analyze the pipeline of creating using machine learning—is each step feminist, is it intersectional, does each step have bias and how can that bias be removed?",
+    "self-description:_what_&_who_it_is_useful_for": NaN,
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "feminist ethics, inclusive, open-source",
+    "notes": NaN,
+    "umbrella_category": "Data & Evaluation Resources"
+  },
+  {
+    "project_name": "feminist.ai (Christine Meinders)",
+    "values": "cultural context, feminist ai, participatory design",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://www.feminist.ai/",
+    "type_of_project": "Education",
+    "type_of_organization_behind_the_project": "Design Collective",
+    "self-description_of_\"smallness\"": "A Los Angeles-based design collective supporting participatory AI development through feminist and cultural workshops.",
+    "self-description:_what_&_who_it_is_useful_for": NaN,
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "cultural context, feminist ai, participatory design",
+    "notes": NaN,
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Fietje (Dutch LLM)",
+    "values": "data sovereignty, efficiency, open-source",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://github.com/BramVanroy/fietje-2",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Ghent University",
+    "self-description_of_\"smallness\"": "Small Dutch-centric model",
+    "self-description:_what_&_who_it_is_useful_for": "Small and efficient, as much as much larger models",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.researchgate.net/publication/387321587_Fietje_An_open_efficient_LLM_for_Dutch",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereignty, efficiency, open-source",
+    "notes": "Fietje is an adapated version of microsoft/phi-2",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "FLAN-T5 Small",
+    "values": "critical pedagogy, efficiency, literacy",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://huggingface.co/google/flan-t5-small",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Google",
+    "self-description_of_\"smallness\"": "Lightweight (60M params), instruction-tuned",
+    "self-description:_what_&_who_it_is_useful_for": "Few-shot learning, reasoning, education apps",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "critical pedagogy, efficiency, literacy",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Gemma 2B/7B/3n",
+    "values": "efficient",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://blog.google/technology/developers/gemma-open-models/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Company (Google)",
+    "self-description_of_\"smallness\"": "Gemma is a family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models.",
+    "self-description:_what_&_who_it_is_useful_for": "You can fine-tune Gemma models on your own data to adapt to specific application needs, such as summarization or retrieval-augmented generation (RAG).",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "efficient",
+    "notes": "3n behaves like a small model in practical deployment",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "GreenAuto: An Automated Platform for Sustainable AI Model Design on Edge Devices",
+    "values": "ecological sustainability, edge computing, efficiency, green ai practices",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://arxiv.org/abs/2501.14995",
+    "type_of_project": "Tool / Platform",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "Edge-device focused, resource-efficient models",
+    "self-description:_what_&_who_it_is_useful_for": "Useful for sustainable model design in constrained environments",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Chat GPT search",
+    "strategies,_values_(multiple,_comma_separated)": "ecological sustainability, edge computing, efficiency, green ai practices",
+    "notes": "The platform is not open",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "H2O-Danube-1.8B",
+    "values": "efficiency, open-source",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://huggingface.co/h2oai/h2o-danube-1.8b-base",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Corporate R&D (H2O.ai)",
+    "self-description_of_\"smallness\"": "Compact 1.8B-parameter model trained on 1T tokens",
+    "self-description:_what_&_who_it_is_useful_for": "Broad NLP tasks: RAG, summarization, chat, etc.; accessible to developers, businesses",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://medium.com/predict/the-surprising-rise-of-tiny-ai-59be99129e9e",
+    "strategies,_values_(multiple,_comma_separated)": "efficiency, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "ICARUS",
+    "values": "biodiversity, data, ecological intelligence, monitoring",
+    "value_clusters": [
+      "Green AI"
+    ],
+    "project_url": "https://www.mpg.de/15126191/earthquakes-animals",
+    "type_of_project": "Infrastructure",
+    "type_of_organization_behind_the_project": "Max Planck Society",
+    "self-description_of_\"smallness\"": "Focus on local-scale, granular animal tracking",
+    "self-description:_what_&_who_it_is_useful_for": "Early sismic warning systems, environmental monitoring",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.icarus.mpg.de/en",
+    "strategies,_values_(multiple,_comma_separated)": "biodiversity, data, ecological intelligence, monitoring",
+    "notes": "The names of the models used are not disclosed",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Indigenius AI",
+    "values": "api, proprietary",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://indigenius.ai/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Indigenius AI (former CDIAL AI)",
+    "self-description_of_\"smallness\"": "3.5 B param model tailored for low-resource African languages (~180 languages)",
+    "self-description:_what_&_who_it_is_useful_for": "Conversational AI platform to close African digital-linguistic divide with speech/text model",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://guardian.ng/news/firm-to-launch-keyboard-to-communicate-in-180-african-indigenous-languages/#google_vignette",
+    "strategies,_values_(multiple,_comma_separated)": "api, proprietary",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "InkubaLM (Lelapa AI)",
+    "values": "decolonial, efficient, local ai, multilingual, small language model",
+    "value_clusters": [
+      "Indigenous-led Models",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://lelapa.ai/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Startup",
+    "self-description_of_\"smallness\"": "A small-scale African language model built with efficiency and local linguistic needs in mind.",
+    "self-description:_what_&_who_it_is_useful_for": NaN,
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "decolonial, efficient, local ai, multilingual, small language model",
+    "notes": "https://huggingface.co/lelapa/InkubaLM-0.4B",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Koala",
+    "values": "community-driven, efficiency, grassroots, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://bair.berkeley.edu/blog/2023/04/03/koala/",
+    "type_of_project": "Open-source chatbot research prototype",
+    "type_of_organization_behind_the_project": "Research lab (BAIR, UC Berkeley)",
+    "self-description_of_\"smallness\"": "Fine-tuned base LLaMA (13B) using a curated dialogue dataset (~200K examples) rather than massive scraping",
+    "self-description:_what_&_who_it_is_useful_for": "Near–ChatGPT-level responses at low cost (< $100), aimed at researchers, educators",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://medium.com/predict/the-surprising-rise-of-tiny-ai-59be99129e9e",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, efficiency, grassroots, open-source",
+    "notes": "accessible",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Little Language Models",
+    "values": "co-creative, community-driven, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://www.media.mit.edu/projects/little-language-models-coco/overview/",
+    "type_of_project": "Education",
+    "type_of_organization_behind_the_project": "CoCo (creative and AI education platform for children; MIT)",
+    "self-description_of_\"smallness\"": "little models, little data; using dice as making abstract \"model\" concrete",
+    "self-description:_what_&_who_it_is_useful_for": "Future shaped by modlers of AI; Introducing “Probabilistic Thinking” as a new foundational fluency for children in the era of AI",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.linkedin.com/pulse/little-language-models-empowering-children-future-ai-modelers-e5cpc/",
+    "strategies,_values_(multiple,_comma_separated)": "co-creative, community driven, open-source",
+    "notes": "co-creative mathematical microworld for children",
+    "umbrella_category": "Research & Thought-Leadership"
+  },
+  {
+    "project_name": "Llama 3.2 1B",
+    "values": "efficient, focused, on-premises deployment",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://www.wiz.io/blog/small-language-model-for-secrets-detection-in-code#tl-dr-0",
+    "type_of_project": "Toolkit",
+    "type_of_organization_behind_the_project": "Wiz (Cloud Security Platform)",
+    "self-description_of_\"smallness\"": "specialized, tuning",
+    "self-description:_what_&_who_it_is_useful_for": "SLM solve cybersecurity issues without the overhead of LLM",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.wiz.io/blog/small-language-model-for-secrets-detection-in-code#tl-dr-0",
+    "strategies,_values_(multiple,_comma_separated)": "efficient, focused, on-premises deployment",
+    "notes": "tuning a small, specialized model for a specific security task",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "llama.cpp",
+    "values": "data sovereignty, efficient",
+    "value_clusters": [
+      "Indigenous-led Models",
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://github.com/ggml-org/llama.cpp",
+    "type_of_project": "Toolkit",
+    "type_of_organization_behind_the_project": "MIT",
+    "self-description_of_\"smallness\"": "minimalist C/C++ library",
+    "self-description:_what_&_who_it_is_useful_for": "running small models efficiently",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereignty, efficient",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "LLMware (Payble) – BLING Series",
+    "values": "lightweight, low-compute, open-source, privacy-focused",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://llmware.ai/resources/building-the-most-accurate-small-language-models-our-journey",
+    "type_of_project": "Model series",
+    "type_of_organization_behind_the_project": "Company",
+    "self-description_of_\"smallness\"": "Under-6B param models designed for low-compute business use cases.",
+    "self-description:_what_&_who_it_is_useful_for": "Pioneering AI Tools Built for Financial, Legal, Compliance, and Regulator",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "lightweight, low-compute, open-source, privacy-focused",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Magistral Small 3.1",
+    "values": "edge ai, efficient, open-source",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://huggingface.co/MagistralAI",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Startup",
+    "self-description_of_\"smallness\"": NaN,
+    "self-description:_what_&_who_it_is_useful_for": "Efficient small LLM model optimized for edge deployment and practical reasoning tasks.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "edge ai, efficient, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Masakhane",
+    "values": "data sovereignty, decolonial ai, grassroots, open-source",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://www.masakhane.io/",
+    "type_of_project": "NLP",
+    "type_of_organization_behind_the_project": "Research Collective",
+    "self-description_of_\"smallness\"": "A grassroots NLP research network focused on African languages through open collaboration.",
+    "self-description:_what_&_who_it_is_useful_for": NaN,
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereignty, decolonial ai, grassroots, open-source",
+    "notes": NaN,
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Meerkat",
+    "values": "enhance, open-source, privacy",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "dmis-lab/meerkat-7b-v1.0 · Hugging Face",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "DMIS Lab",
+    "self-description_of_\"smallness\"": "compact, efficient",
+    "self-description:_what_&_who_it_is_useful_for": "healthcare; on-premise AI with enhanced reasoning skills aquired from textbooks, utilizing current LM (Mistral & Llama)",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.nature.com/articles/s41746-025-01653-8?utm_source=chatgpt.com",
+    "strategies,_values_(multiple,_comma_separated)": "enhance, open-source, privacy",
+    "notes": "Academic project deployed for hospital/medical use",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Mistral AI – Mistral 7B",
+    "values": "efficient, high-performance, low-compute, open-source (apache)",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://mistral.ai/news/announcing-mistral-7b",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Startup",
+    "self-description_of_\"smallness\"": "handle longer sequences at smaller cost, it can be used without restrictions, use it anywhere (including locally),",
+    "self-description:_what_&_who_it_is_useful_for": "Mistral 7B is easy to fine-tune on any task.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://mistral.ai/news/announcing-mistral-7b",
+    "strategies,_values_(multiple,_comma_separated)": "efficient, high-performance, low-compute, open-source (apache)",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Mixtral 8×7B",
+    "values": "cost-efficient, mixture-of-experts, open-weight, sparse",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://mistral.ai/news/mixtral-of-experts",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "private AI company (Mistral AI)",
+    "self-description_of_\"smallness\"": "Sparse model with only 2 of 8 experts active per token, energy-efficient inference",
+    "self-description:_what_&_who_it_is_useful_for": "High-performance, open-weight model for developers and researchers needing efficient inference and strong performance",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "cost-efficient, mixture-of-experts, open-weight, sparse",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "NatureLM-audio",
+    "values": "audio modeling, conservation, ethical ai, inter-species understanding",
+    "value_clusters": [
+      "Green AI"
+    ],
+    "project_url": "https://www.earthspecies.org/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Non-profit research lab (Earth Species Project)",
+    "self-description_of_\"smallness\"": "Compact, highly specialized model focused on audio language across species",
+    "self-description:_what_&_who_it_is_useful_for": "Researchers in animal communication, conservationists, and bioacoustic scientists",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "EarthSpecies.org",
+    "strategies,_values_(multiple,_comma_separated)": "audio modeling, conservation, ethical ai, inter-species understanding",
+    "notes": "Trained on a wide range of animal vocalizations (whales, birds, elephants). Designed to facilitate cross-species learning and representation building.",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Nomic – GPT4All",
+    "values": "local/offline, on-device, open-source, privacy-first",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://www.nomic.ai/gpt4all",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Startup",
+    "self-description_of_\"smallness\"": "Local AI chatbot that runs entirely on-device with no cloud dependency.",
+    "self-description:_what_&_who_it_is_useful_for": "Local Language Models on Any Hardware",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.nomic.ai/gpt4all",
+    "strategies,_values_(multiple,_comma_separated)": "local/offline, on-device, open-source, privacy-first",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "O’KANATA – Indigenous AI Language Platform (Canada)",
+    "values": "education, indigenous ai, preserving indigenous language",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://solve.mit.edu/solutions/89894#:~:text=Provide%20a%20one,your%20solution",
+    "type_of_project": "Prototype",
+    "type_of_organization_behind_the_project": "Non-profit organization",
+    "self-description_of_\"smallness\"": "“O’KANATA is an AI-powered platform blending traditional Indigenous languages and cultures with modern technology for revitalization and preservation.”solve.mit.edu",
+    "self-description:_what_&_who_it_is_useful_for": "“Our solution utilizes cutting-edge technology to develop a user-friendly interface that allows Indigenous communities to easily access resources, engage in interactive language learning modules, and contribute their own knowledge and linguistic content.”solve.mit.edu",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.brookings.edu/articles/can-small-language-models-revitalize-indigenous-languages/#:~:text=,Greenland%2C%20and%20the%20Faroe%20Islands",
+    "strategies,_values_(multiple,_comma_separated)": "education, indigenous ai, preserving indigenous language",
+    "notes": "Canada-based initiative for developing AI that supports Indigenous language access and cultural values. Adds governance and sovereignty lens.",
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Papa Reo",
+    "values": "community-driven, cultural literacy, data sovereignty, decolonial, education, indigenous, māori ai",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://papareo.nz/",
+    "type_of_project": "API",
+    "type_of_organization_behind_the_project": "Multilingual Language Platform",
+    "self-description_of_\"smallness\"": "Indigenous-language platform",
+    "self-description:_what_&_who_it_is_useful_for": "Preserving language from small communities, cultural governance",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, cultural literacy, data sovereignty, decolonial, education, indigenous, māori ai",
+    "notes": NaN,
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Phi-4-multimodal/Phi-4-mini",
+    "values": "efficient, open-source",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Microsoft",
+    "self-description_of_\"smallness\"": "compact size, \"potentially enabling on-device AI processing with reduced latency\"",
+    "self-description:_what_&_who_it_is_useful_for": "Phi 4: integrating speech, vision and text processing functionalities; Phi 4 mini: text-based tasks w/128,000 tokens",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://technologymagazine.com/articles/phi-4-behind-microsofts-smaller-multimodal-ai-models",
+    "strategies,_values_(multiple,_comma_separated)": "efficient, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Phone LM 0.5-1.5B",
+    "values": "efficient, open-source",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://arxiv.org/pdf/2411.05046",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Beijing University of Posts and Telecommunications",
+    "self-description_of_\"smallness\"": "encompass sub or a few billions of parameters",
+    "self-description:_what_&_who_it_is_useful_for": "focused on pre-training to improve runtime efficiency; facilitate on-device deployments; adopt to the target device hardware",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://techxplore.com/news/2024-11-ai-personal-devices-efficient-small.html",
+    "strategies,_values_(multiple,_comma_separated)": "efficient, open-source",
+    "notes": "Academic project released on Android",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "PocketPal AI",
+    "values": "community-driven, efficiency, open-source, privacy",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://github.com/a-ghorbani/pocketpal-ai",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "GitHub",
+    "self-description_of_\"smallness\"": "Models under ~4 B parameters designed for on-device efficiency and privacy; personal assistant in your pocket",
+    "self-description:_what_&_who_it_is_useful_for": "Can be used offline; travelers; privacy-conscious users seeking assistance without internet",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://jmlbeaujour.medium.com/pocketpal-ai-bringing-small-language-models-to-your-cellphone-5ae486902f1b",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, efficiency, open-source, privacy",
+    "notes": "bringing small languages to your phone",
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Project CETI (Cetacean Translation Initiative)",
+    "values": "data-driven linguistic modeling, deep listening, ethical conservation, gentle robotics, interdisciplinary science, legal foresight",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Green AI"
+    ],
+    "project_url": "https://www.projectceti.org/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Non-profit",
+    "self-description_of_\"smallness\"": "Focused on one species (sperm whales) and a specific locale (Dominica) using precision acoustics and context-aware analysis",
+    "self-description:_what_&_who_it_is_useful_for": "Marine biologists, linguists, ethicists, conservationists. Useful for decoding whale communication, enabling cross‑species understanding, and guiding ocean protection",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.projectceti.org/",
+    "strategies,_values_(multiple,_comma_separated)": "data-driven linguistic modeling, deep listening, ethical conservation, gentle robotics, interdisciplinary science, legal foresight",
+    "notes": "Concerns about assuming whales have language analogous to human speech and the non-consentual recording of whale speech",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Projeto Sócrates (Brazil)",
+    "values": "efficiency, legal consistency, precedent-based reasoning",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://notmy.ai/mapping-of-projects/",
+    "type_of_project": "Semantic Analysis Tool",
+    "type_of_organization_behind_the_project": "Public Institution (Superior Court of Justice, Brazil)",
+    "self-description_of_\"smallness\"": "Case-specific legal analysis to support human judgment",
+    "self-description:_what_&_who_it_is_useful_for": "Supports justices by identifying legal patterns, legislation, and precedents in similar cases",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "STJ Report, SAJADV Blog, Editora JC, Migalhas",
+    "strategies,_values_(multiple,_comma_separated)": "efficiency, legal consistency, precedent-based reasoning",
+    "notes": "A prototype (Sócrates 2.0) is in development",
+    "umbrella_category": "Data & Evaluation Resources"
+  },
+  {
+    "project_name": "Queer AI (Emily Martinez & Ben Lerchin)",
+    "values": "feminist ai, community-driven, queer",
+    "value_clusters": ["Feminist and Queer Approaches"],
+    "project_url": "https://benlerchin.com/portfolio/queer-ai/#:~:text=Queer%20AI%20is%20a%20neural,disruptive%20cyborgs%20and%20subservient%20fembots",
+    "type_of_project": "Independent artist-led project",
+    "type_of_organization_behind_the_project": "Artist Researcher",
+    "self-description_of_\"smallness\"": "“Queer AI’s first implementation takes the form of a subversive chatbot which refuses to follow the gendered scripts that currently exist for disruptive cyborgs and subservient fembots.”",
+    "self-description:_what_&_who_it_is_useful_for": "“Queer AI imagines a future of many queer bots designed for a variety of needs and desires through the careful and collaborative curation of training material by and for a diversity of sensibilities and actors.”",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://benlerchin.com/portfolio/queer-ai/#:~:text=Queer%20AI%20is%20a%20neural,disruptive%20cyborgs%20and%20subservient%20fembots",
+    "strategies,_values_(multiple,_comma_separated)": "feminist ai, community-driven, queer",
+    "notes": "the website of the actual model doesn't seem to work anymore",
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Queer in AI",
+    "values": "decentralized, grass-root, queer, volunteer-run",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://www.queerinai.com/",
+    "type_of_project": "Community",
+    "type_of_organization_behind_the_project": "Grassroots organization",
+    "self-description_of_\"smallness\"": "a global, decentralized, volunteer-run grassroots organization that employs intersectional and community-led participatory design to build an inclusive and equitable AI future.",
+    "self-description:_what_&_who_it_is_useful_for": "Queer in AI’s work serves as a case study of grassroots activism and participatory methods within AI, demonstrating the potential of community-led participatory methods and intersectional praxis, while also providing challenges, case studies, and nuanced insights to researchers developing and using participatory methods.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://dl.acm.org/doi/10.1145/3593013.3594134",
+    "strategies,_values_(multiple,_comma_separated)": "decentralized, grass-root, queer, volunteer-run",
+    "notes": NaN,
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Qwen-2 0.5B",
+    "values": "data sovereignty, efficient, open-source",
+    "value_clusters": [
+      "Indigenous-led Models",
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://huggingface.co/Qwen/Qwen2-0.5B",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Alibaba",
+    "self-description_of_\"smallness\"": "~ 490 million parameters (0.49 B) total, with about 360 M for weights",
+    "self-description:_what_&_who_it_is_useful_for": "cost-sensitive deployment, fine-tuning, everyday tasks",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.marktechpost.com/2025/01/09/meet-kalm-embedding-a-series-of-multilingual-embedding-models-built-on-qwen2-0-5b-and-released-under-mit/",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereignty, efficient, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "SALT",
+    "values": "knowldge distribution, open ecosystem, training",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://arxiv.org/abs/2410.18779",
+    "type_of_project": "Training",
+    "type_of_organization_behind_the_project": "Google Research, Google DeepMind",
+    "self-description_of_\"smallness\"": "lightweight model, explainable training, academic LLM",
+    "self-description:_what_&_who_it_is_useful_for": "train LLM using SLM; using SLM for knowledge distribution to LLM; Walks through how to build compact LLMs from scratch. Adds transparency, educational accessibility, and insight into model design decisions.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.marktechpost.com/2024/12/19/google-deepmind-introduces-salt-a-machine-learning-approach-to-efficiently-train-high-performing-large-language-models-using-slms/",
+    "strategies,_values_(multiple,_comma_separated)": "knowldge distribution, open ecosystem, training",
+    "notes": "not open-source but can be implemented by others",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "SmolLM2",
+    "values": "academic, efficient",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Research Collective",
+    "self-description_of_\"smallness\"": "SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters. They are capable of solving a wide range of tasks while being lightweight enough to run on-device. More details in our paper https://arxiv.org/abs/2502.02737",
+    "self-description:_what_&_who_it_is_useful_for": NaN,
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "academic, efficient",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "SOF+IA (Chile)",
+    "values": "feminist ai",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://sofiachat.cl/",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "NGO",
+    "self-description_of_\"smallness\"": "SOF+IA supported with Generative Artificial Intelligence (AI) is a chatbot that is able to dialogue and address situations of violence and digital harassment that women, of any age, often experience when expressing themselves, giving opinions or when uploading content on digital social media platforms.",
+    "self-description:_what_&_who_it_is_useful_for": "feminist AI, safety, gender justice, digital rights",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://aplusalliance.org/feminist-ai-papers/",
+    "strategies,_values_(multiple,_comma_separated)": "feminist ai",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Spawning AI",
+    "values": "community-driven, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://spawning.ai/",
+    "type_of_project": "Toolkit",
+    "type_of_organization_behind_the_project": "Startup (data governance for generative AI)",
+    "self-description_of_\"smallness\"": "Focuses on small-scale control mechanisms—opt-in/opt‑out registry, scraper‑blocking honeypots, curated CC0 dataset versus massive dark‑scraped datasets",
+    "self-description:_what_&_who_it_is_useful_for": "Empowers creators to manage consent: check if their work was trained on, block unwanted scraping, curate fair-use training data for AI developers",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://spawning.ai/",
+    "strategies,_values_(multiple,_comma_separated)": "community driven, open-source",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "TeenyTinyLlama",
+    "values": "community-driven, data sovereignty, decolonial, open-source, research",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://nkluge-correa.github.io/TeenyTinyLlama/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Academic (University of Bonn, Pontifical Catholic University of Rio Grande do Sul)",
+    "self-description_of_\"smallness\"": "<2B parameters (160M & 460M), monolingual",
+    "self-description:_what_&_who_it_is_useful_for": "Language generation for low-resource languages such as Brazilian Portuguese",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://www.sciencedirect.com/science/article/pii/S2666827024000343",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, data sovereignty, decolonial, open-source, research",
+    "notes": "Based on a TinyLlama, which is based on Llama. Making each model \"tinier\" and more specific.",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Te Hiku Media",
+    "values": "ethical licensing, indigenous data sovereignty, local ai",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://tehiku.nz/",
+    "type_of_project": NaN,
+    "type_of_organization_behind_the_project": "Indigenous Media Organization",
+    "self-description_of_\"smallness\"": "Māori-run initiative developing speech and language tools for te reo Māori under community data governance.",
+    "self-description:_what_&_who_it_is_useful_for": "Māori community",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "ethical licensing, indigenous data sovereignty, local ai",
+    "notes": "Te Hiku Media is a charitable media organisation, collectively belonging to the Far North iwi of Ngāti Kuri, Te Aupouri, Ngai Takoto, Te Rārawa and Ngāti Kahu. The station is an iwi communications hub for iwi radio, online TV and media services. Māori language revitalisation is a core focus of Te Hiku Media, as is archiving and training. The kaupapa of Te Hiku Media is best articulated through the vision and mission of the organization which was confirmed by a hui of kaumātua and kuia (elders), and other native speakers of Te Reo Māori at Mahimaru Marae on Thursday 30 May 2013.",
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "TinyLlama",
+    "values": "efficient, open-source",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://github.com/jzhang38/TinyLlama",
+    "type_of_project": "Training",
+    "type_of_organization_behind_the_project": NaN,
+    "self-description_of_\"smallness\"": "The TinyLlama project aims to pretrain a 1.1B Llama model on 3 trillion tokens. With some proper optimization, we can achieve this within a span of \"just\" 90 days using 16 A100-40G GPUs 🚀🚀. The training has started on 2023-09-01.",
+    "self-description:_what_&_who_it_is_useful_for": "We adopted exactly the same architecture and tokenizer as Llama 2. This means TinyLlama can be plugged and played in many open-source projects built upon Llama. Besides, TinyLlama is compact with only 1.1B parameters. This compactness allows it to cater to a multitude of applications demanding a restricted computation and memory footprint.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "strategies,_values_(multiple,_comma_separated)": "efficient, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "TinyStories / Phi-series SLMs",
+    "values": "data quality, educational ai, low-resource accessibility, simplicity",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact"
+    ],
+    "project_url": "https://huggingface.co/datasets/roneneldan/TinyStories?ref=blog.premai.io",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Microsoft",
+    "self-description_of_\"smallness\"": "Models as small as 60M–1.3B parameters trained on curated, high-quality data",
+    "self-description:_what_&_who_it_is_useful_for": "Useful for education, storytelling, and constrained reasoning tasks",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://blog.premai.io/the-tiny-llm-revolution-part1/",
+    "strategies,_values_(multiple,_comma_separated)": "data quality, educational ai, low-resource accessibility, simplicity",
+    "notes": NaN,
+    "umbrella_category": "Data & Evaluation Resources"
+  },
+  {
+    "project_name": "Tuumailubotti",
+    "values": "community-driven, queer",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://medialabdemoday.aalto.fi/2023-winter/tuumailubotti/",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "Small native-language chatbot built from Neurodiverse dataset",
+    "self-description:_what_&_who_it_is_useful_for": "to \"neuroqueer the underlying larger foundation model with a small dataset and make the chatbot manifest neurodiverse rhetoric'",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://vertti-luostarinen.medium.com/",
+    "strategies,_values_(multiple,_comma_separated)": "community‑driven, queer",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "UlizaLlama",
+    "values": "indigenous, domain-specific, efficiency, on-device/offline, data privacy",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://huggingface.co/Jacaranda/UlizaLlama",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Indigenous-led nonprofit (Kenyan health tech NGO)",
+    "self-description_of_\"smallness\"": "“UlizaLlama is designed for organizations to host and run it on their own servers and existing infrastructure – with small teams and budgets. … The model can be honed to their specific subject area and in a language that their users relate to… and supports complete data privacy, helping organizations maintain full control over their sensitive information.”jacarandahealth.org",
+    "self-description:_what_&_who_it_is_useful_for": "“Jacaranda created UlizaLlama to increase the accuracy and sensitivity of its maternal health digital platform PROMPTS’ interactions with mums in Swahili. … UlizaLlama will offer more nuanced engagement around reported pregnancy issues, and faster, more personalized support during emergencies.”jacarandahealth.org",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://jacarandahealth.org/jacaranda-launches-first-in-kind-swahili-large-language-model/#:~:text=UlizaLlama%20is%20designed%20for%20organizations,control%20over%20their%20sensitive%20information",
+    "strategies,_values_(multiple,_comma_separated)": "indigenous, domain-specific, efficiency, on-device/offline, data privacy",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Vicuna",
+    "values": "community-driven, efficiency, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://lmsys.org/blog/2023-03-30-vicuna/",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Non-profit Research Collective",
+    "self-description_of_\"smallness\"": "Fine-tuned from LLaMA-2/13B using 70K–125K user-shared ChatGPT dialogues (~13B parameters vs. much larger proprietary models)",
+    "self-description:_what_&_who_it_is_useful_for": "Delivers 90% ChatGPT-quality chat; accessible to researchers, hobbyists, and educators; low-cost ($300 training)",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://medium.com/predict/the-surprising-rise-of-tiny-ai-59be99129e9e",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, efficiency, open-source",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "WinoQueer",
+    "values": "community‑driven, open-source, queer inclusive",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://github.com/katyfelkner/winoqueer",
+    "type_of_project": "Toolkit",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "Community-in-the-loop data collection and finetuning benchmark—small curated dataset",
+    "self-description:_what_&_who_it_is_useful_for": "Detects and mitigates LGBTQ+ biases in LLMs; useful for queer researchers & model evaluators",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "community‑driven, open-source, queer inclusive",
+    "notes": "builds on E.D.I.A.",
+    "umbrella_category": "Data & Evaluation Resources"
+  },
+  {
+    "project_name": "Yotta – myShakti (DeepSeek model)",
+    "values": "data sovereignty, democratizing, low-compute, open-source",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://techachievemedia.com/press-release/yotta-launches-myshakti-gen-ai-chatbot-deepseek-open-source-ai-model/",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Company",
+    "self-description_of_\"smallness\"": "India’s first fully sovereign B2C generative AI chatbot that runs off DeepSeek Open-Source AI model. Developed by Yotta and hosted entirely in India, myShakti aims to democratize access to cutting-edge AI while ensuring complete data sovereignty.",
+    "self-description:_what_&_who_it_is_useful_for": "democratizing AI by making it accessible to every Indian while ensuring data sovereignty.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://techachievemedia.com/press-release/yotta-launches-myshakti-gen-ai-chatbot-deepseek-open-source-ai-model/",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereign, democratizing, low-compute, open-source",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Xela",
+    "values": "data sovereignty, feminist ai",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "github.com/apillai-work/feminist-chatbot",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Individual developer / community open-source",
+    "self-description_of_\"smallness\"": "Fully scripted, locally runnable chatbot with minimal resource requirements.",
+    "self-description:_what_&_who_it_is_useful_for": "Recommends inclusive books; ideal for educators, readers, and community librarians seeking feminist-aligned content.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereignty, feminist ai",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Maru",
+    "values": "accessibility, feminist ai",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact"
+    ],
+    "project_url": "https://feministinternet.medium.com/how-we-created-global-anti-harassment-chatbot-maru-c74a36039537",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Activist collective (Feminist Internet)",
+    "self-description_of_\"smallness\"": "Scripted, conversational tree design; deployable without large infrastructure or AI models.",
+    "self-description:_what_&_who_it_is_useful_for": "Designed to support individuals (especially women and marginalized folks) facing online harassment.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "accessibility, feminist ai",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Apoapoikiopoiisi (ΑΠΟαποικιοΠΟΙΗΣΗ)",
+    "values": "community-created data, decolonial",
+    "value_clusters": [
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://alexiaachilleos.com/apoapoikiopoiisi/",
+    "type_of_project": "Dataset",
+    "type_of_organization_behind_the_project": "NGO",
+    "self-description_of_\"smallness\"": "the compilation of a community-created dataset of written Cypriot Greek (CyGr), and the subsequent publication of a poetry collection",
+    "self-description:_what_&_who_it_is_useful_for": "The project aims to contribute to the de-stigmatisation of CyGr and the spreading of a more systematic homogeneous way of spelling. It also aims to provide technological agency to an island on the peripheries of the global AI infrastructure, where the legacies of colonialism are still evident. While Cyprus is currently at the early stages of adopting AI technologies, ΑΠΟαποικιοΠΟΙΗΣΗ attempts to sow the first seeds towards a framework of what a decolonised Cypriot AI could look like from a local perspective, and open a dialogue about the role and influence of AI in our lives. It also provides an opportunity for CyGr speakers to interact with technology in the language variety they use in their daily lives.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Inte suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "community-created data, decolonial",
+    "notes": NaN,
+    "umbrella_category": "Data & Evaluation Resources"
+  },
+  {
+    "project_name": "Orca 2",
+    "values": "domain-specific, efficient, open-source, research",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Green AI"
+    ],
+    "project_url": "https://huggingface.co/microsoft/Orca-2-13b",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Public research lab (Microsoft Research)",
+    "self-description_of_\"smallness\"": "“smaller LMs (on the order of 10 billion parameters or less)”",
+    "self-description:_what_&_who_it_is_useful_for": "“Built for research purposes only… provides single‑turn responses… excels particularly in reasoning” – tasks like math, reading comprehension, summarization",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "domain-specific, efficient, open-source, research",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Kōrero Māori (Te Hiku Media, NZ)",
+    "values": "data sovereignty, indigenous, revitalization",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "koreromaori.com",
+    "type_of_project": "Papa Reo stack",
+    "type_of_organization_behind_the_project": "Indigenous-led, community driven",
+    "self-description_of_\"smallness\"": "domain specific, only te reo Māori (+ optional NZ English); ASR checkpoint is in the low-hundreds-of-millions parameters; small in practice",
+    "self-description:_what_&_who_it_is_useful_for": "An open-source platform by Māori communities to collect oral language data and train AI models for te reo Māori. Backed by an Indigenous data sovereignty license (Kaitiakitanga) to protect community rights, it exemplifies ecological/local AI – preserving endangered languages with community control. This fills an Indigenous-led, culturally grounded AI gap.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "data sovereignty, indigenous, revitalization",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Shhor AI (India)",
+    "values": "activism, community-driven, feminist ai, queer inclusive",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://www.shhorai.com/",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Startup",
+    "self-description_of_\"smallness\"": "publilc bot DistilBERT is a small model",
+    "self-description:_what_&_who_it_is_useful_for": "hate speech classifier in the Indian context",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "activism, community driven, feminist ai, queer inclusive",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "OpenELM",
+    "values": "efficiency, on-device/offline, open-source, research, transparency",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://machinelearning.apple.com/research/openelm",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Corporate research lab (Apple ML team)",
+    "self-description_of_\"smallness\"": "“Efficient… with approximately one billion parameters; 2× fewer tokens than comparable models”",
+    "self-description:_what_&_who_it_is_useful_for": "Open-source pretrained & instruction-tuned models; useful for on-device, resource-constrained inference on Apple devices & open-research evaluation",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "efficiency, on-device/offline, open-source, research, transparency",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "StableLM",
+    "values": "open-weight, permissive licence",
+    "value_clusters": [
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://www.zignuts.com/ai/stablelm-2-7b",
+    "type_of_project": "Model",
+    "type_of_organization_behind_the_project": "Company",
+    "self-description_of_\"smallness\"": "StableLM 2 7B is fully open-weight and released under a permissive license, allowing researchers and developers to experiment, customize, and deploy without constraints.",
+    "self-description:_what_&_who_it_is_useful_for": "...allowing researchers and developers to experiment, customize, and deploy without constraints, research, education, enterprise AI pilots",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "ChatGPT deep research suggestion",
+    "strategies,_values_(multiple,_comma_separated)": "open-weight, permissive licence",
+    "notes": NaN,
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Objective Portrait",
+    "values": "artistic ai, domain-specific, subjective dataset",
+    "value_clusters": [
+      "Small Data, Big Impact"
+    ],
+    "project_url": "https://veravanderburg.nl/Objective-Portait",
+    "type_of_project": "Model/Artwork",
+    "type_of_organization_behind_the_project": "Artist (Vera van der Burg & Gijs de Boer)",
+    "self-description_of_\"smallness\"": "\"If we explicitly train an algorithm on someone’s personal values, can it capture something of their particular way of seeing? While an objec recognition algorithm usually tries to learn the definition of an object, we explore the potential for a subject recognition algorithm: can an AI learn to see the value and meaning of an object for someone?\"",
+    "self-description:_what_&_who_it_is_useful_for": NaN,
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": NaN,
+    "strategies,_values_(multiple,_comma_separated)": "artistic ai, domain-specific, subjective dataset",
+    "notes": "embrace the biases in AI",
+    "umbrella_category": "Models & Model-Families"
+  },
+  {
+    "project_name": "Abundant Intelligences",
+    "values": "community-driven, data sovereignty, decolonial, indigenous, revitalization",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://abundant-intelligences.net/",
+    "type_of_project": "Reseach program",
+    "type_of_organization_behind_the_project": "Academic and community based organizations",
+    "self-description_of_\"smallness\"": "grounded in Indigenous epistemologies containing robust conceptual frameworks for understanding how technology can be created in ways that integrate it into existing lifeways, support the flourishing of future generations, and optimize for abundance rather than scarcity",
+    "self-description:_what_&_who_it_is_useful_for": "an Indigenous-led research program that conceptualizes, designs, develops, and deploys Artificial Intelligence based on Indigenous Knowledge systems",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Previous research",
+    "strategies,_values_(multiple,_comma_separated)": "community driven, data sovereignty, decolonial, indigenous, revitalization",
+    "notes": "research creation; primarily based in Canada, the United States, and New Zealand; Te Hiku Media is a partner; https://www.indigenous-ai.net/",
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "Hua Ki'i",
+    "values": "community-driven, decolonial, indigenous",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://github.com/rngwlf/hua_kii",
+    "type_of_project": "Prototype",
+    "type_of_organization_behind_the_project": "Academic",
+    "self-description_of_\"smallness\"": "\"first of all, we included the community from, from the very start. In that case, community was our main context,\"",
+    "self-description:_what_&_who_it_is_useful_for": "a prototype of these protocols in action which uses object recognition to translate images into Indigenous languages, starting with Hawaiian.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://youtu.be/LLPSjtxUOkc?si=x3DFm9MLZ2mkboOF",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, decolonial, indigenous",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "COCO-Africa",
+    "values": "domain-specific, open-source, research",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance"
+    ],
+    "project_url": "https://victordibia.com/cocoafrica/#masks",
+    "type_of_project": "Tool and dataset",
+    "type_of_organization_behind_the_project": "Victor Dibia",
+    "self-description_of_\"smallness\"": "\"a manually curated set of ~9300 images depicting African Masks ... The goal is not to generate a perfectly realistic mask (a common objective in recent GAN work) but more towards observing any creative or artistic elements encoded in the resulting GAN.\"",
+    "self-description:_what_&_who_it_is_useful_for": "The Coco Africa project is geared towards creating an easy to use data collection tool to support the curation of interesting datasets (current focus on under-represented objects and contexts in Africa).",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "https://medium.com/data-science/african-masks-gans-tpu-9a6b0cf3105c",
+    "strategies,_values_(multiple,_comma_separated)": "domain-specific, open-source, research",
+    "notes": NaN,
+    "umbrella_category": "Data & Evaluation Resources"
+  },
+  {
+    "project_name": "Igbo API",
+    "values": "community-driven, domain-specific, open-source",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://igboapi.com/",
+    "type_of_project": "API and Model",
+    "type_of_organization_behind_the_project": "Community based organizations",
+    "self-description_of_\"smallness\"": "The data was sourced by an open-source community of more than 500 volunteer audio recorders and translators.",
+    "self-description:_what_&_who_it_is_useful_for": "The Igbo API is the first, open-source, multi-purpose African language API that offers AI features like automatic speech recognition, machine translation, and more allowing developers to build experiences that connect with a broader African population.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Previous research",
+    "strategies,_values_(multiple,_comma_separated)": "community-driven, domain-specific, open-source",
+    "notes": NaN,
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Mumkin",
+    "values": "feminist ai, gender equality",
+    "value_clusters": [
+      "Feminist and Queer Approaches"
+    ],
+    "project_url": "https://www.mumkinapp.com/",
+    "type_of_project": "Chatbot",
+    "type_of_organization_behind_the_project": "Company",
+    "self-description_of_\"smallness\"": "Our simulated in-app conversations help users shed inhibitions and gain confidence to have real-life conversations on gender, culture and society.",
+    "self-description:_what_&_who_it_is_useful_for": "Currently, Mumkin enables mock-conversations between Users and fictional Female Genital Cutting supporters, i.e, AI-led chatbots playing the role of a Mother, Husband, or Mother-in-law.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Toupin, Sophie. “Shaping Feminist Artificial Intelligence.” New Media & Society 26, no. 1 (2024): 580–95. https://doi.org/10.1177/14614448221150776.",
+    "strategies,_values_(multiple,_comma_separated)": "feminist ai, gender equality",
+    "notes": NaN,
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Poieto",
+    "values": "accessibility, democracy, education",
+    "value_clusters": [
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact"
+    ],
+    "project_url": "https://www.poieto.com/",
+    "type_of_project": "Service",
+    "type_of_organization_behind_the_project": "Company",
+    "self-description_of_\"smallness\"": "At POIETO, we delve deep into the convergence of values and AI technology. With expertise in product research and multi-stakeholder alignment, we develop tools and resources to better harness AI's potential for the good of society.",
+    "self-description:_what_&_who_it_is_useful_for": "We equip creators with the necessary knowledge and tools to be impactful change makers. Our aim is to guide organizations in developing ethical, thoughtful products, weaving together a robust, enlightened tech ecosystem.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Toupin, Sophie. “Shaping Feminist Artificial Intelligence.” New Media & Society 26, no. 1 (2024): 580–95. https://doi.org/10.1177/14614448221150776.",
+    "strategies,_values_(multiple,_comma_separated)": "accessibility, democracy, education",
+    "notes": "related to feminist.ai; started out as a software: https://github.com/poieto",
+    "umbrella_category": "Toolkits/Libraries/Platforms"
+  },
+  {
+    "project_name": "Inclusive AI lab",
+    "values": "creative, decolonial, ecological sustainability, equity, feminist ai",
+    "value_clusters": [
+      "Indigenous-led Models",
+      "Feminist and Queer Approaches",
+      "Small Data, Big Impact",
+      "Green AI"
+    ],
+    "project_url": "https://inclusiveailab.org/",
+    "type_of_project": "Research program",
+    "type_of_organization_behind_the_project": "Academic and community based organizations",
+    "self-description_of_\"smallness\"": "Our mission is to incubate leaders and help build inclusive and sustainable AI data, tools, services, and platforms…with a special focus on the Global South.",
+    "self-description:_what_&_who_it_is_useful_for": "The Inclusive AI Lab develops ethical, inclusive AI systems and is useful for researchers, policymakers, and organizations focused on equitable technology",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Linkedin",
+    "strategies,_values_(multiple,_comma_separated)": "creative, decolonial, ecological sustainability, equity, feminist ai",
+    "notes": NaN,
+    "umbrella_category": "Communities & Initiatives"
+  },
+  {
+    "project_name": "The Hope",
+    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://substack.com/home/post/p-190142741",
+    "type_of_project": "Application/Artwork",
+    "type_of_organization_behind_the_project": "Artist (Benjamin Bratton)",
+    "self-description_of_\"smallness\"": "Everything is locally-hosted, with all computational processes happening on-device, and there are no data center calls involved in the operation of The Hope. ",
+    "self-description:_what_&_who_it_is_useful_for": "The Hope is a small interactive ‘smart home’ touchscreen device, demonstrating an alternative approach to AI technologies that focuses on equitable and low-power use, supporting under-served communities, without tech companies and without indulging in the myth of ‘intelligence’.",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
+    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "notes": "Climate imaginary",
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "The Horizon",
+    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://wesleygoatley.substack.com/p/18-the-horizon",
+    "type_of_project": "Application/Artwork",
+    "type_of_organization_behind_the_project": "Artist (Benjamin Bratton)",
+    "self-description_of_\"smallness\"": "The LLM at the core of this work does function in a low-powered way, using recycled tools, to achieve things that are of genuine use to  people, such as advice on how to better feed yourself and others.",
+    "self-description:_what_&_who_it_is_useful_for": "a hacked Kindle, a disassembled Amazon Echo, an  old Raspberry Pi computer, and solar panels all jury-rigged together to make a recycled, low-power version of the AI consumer tech of today. ",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
+    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "notes": "Climate imaginary",
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "The Harbinger",
+    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://wesleygoatley.substack.com/p/17-the-harbinger",
+    "type_of_project": "Application/Artwork",
+    "type_of_organization_behind_the_project": "Artist (Benjamin Bratton)",
+    "self-description_of_\"smallness\"": "The Harbinger is built from a custom enclosure containing a single-board computer (Jestson Orin Nano) that runs entirely offline.",
+    "self-description:_what_&_who_it_is_useful_for": "The device listens to patient and GP conversations to make inscrutable ‘smart AI-powered analyses’ of the patient’s needs,  diagnoses, prescriptions, and necessary appointments, bypassing the GP’s  opinion in favour of Palantir-branded ‘automated care’",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
+    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "notes": "Climate imaginary",
+    "umbrella_category": "Applications & End-User Agents"
+  },
+  {
+    "project_name": "Critical Climate Computing",
+    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "value_clusters": [
+      "Small Data, Big Impact",
+      "Open Source, Low-Compute, High-Performance",
+      "Indigenous-led Models"
+    ],
+    "project_url": "https://criticalclimatecomputing.com/index.html ",
+    "type_of_project": "Research program",
+    "type_of_organization_behind_the_project": "Academic and community based organizations",
+    "self-description_of_\"smallness\"": "The practices we are developing and fostering at the CCC focus on carbon and technological literacy around computational systems and their uses, promoting uses of them in arts and design practice that modify, hack, or employ these tools in ways that reduce consumption, minimise waste, and engage with their hidden functionalities to propose mindful and critically reflexive engagements with them.",
+    "self-description:_what_&_who_it_is_useful_for": "We want to foster practices that acknowledge the climate crisis as a hyperobject that intersects with many forms of disempowerment and injustice around the world, allowing for a wide range of social, racial, and economic justices to be understood in relation to the climatic. ",
+    "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
+    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "notes": "Climate imaginary",
+    "umbrella_category": "Communities & Initiatives"
+  }
+]

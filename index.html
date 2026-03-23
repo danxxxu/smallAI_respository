@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@0,400..840;1,400..840&display=swap"
+      rel="stylesheet"
+    />
+    <title>Small AI Repository</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Small AI Repository</h1>
+    <div id="filters" class="filters">
+      <div class="filter-row">
+        <div class="filter-label">Value:</div>
+        <div id="cluster-tags" class="tag-container"></div>
+      </div>
+
+      <div class="filter-row">
+        <div class="filter-label">Project type:</div>
+        <div id="category-tags" class="tag-container"></div>
+      </div>
+    </div>
+
+    <div id="container"></div>
+
+    <div id="modal" class="modal hidden">
+      <div id="side-panel" class="side-panel hidden">
+        <div class="panel-header">
+          <h2 id="panel-title"></h2>
+          <span id="close-panel">&times;</span>
+        </div>
+        <div class="panel-section">
+          <div id="panel-description"></div>
+        </div>
+        <p id="panel-smallness" class="panel-smallness"></p>
+
+        <div class="panel-section">
+          <div id="panel-values"></div>
+        </div>
+
+        <!-- <div class="panel-section">
+          <strong>Type of Project</strong>
+          <p id="panel-type"></p>
+        </div> -->
+
+        <div class="panel-section">
+          <strong>Category</strong>
+          <p id="panel-umbrella"></p>
+        </div>
+
+        <div class="panel-section">
+          <strong>By whom</strong>
+          <p id="panel-org"></p>
+        </div>
+        <a id="panel-link" href="#" target="_blank">Visit project →</a>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -146,7 +146,7 @@ h2 {
 }
 .panel-section {
   margin: 12px 0;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }
 
 .panel-description {
@@ -159,7 +159,7 @@ h2 {
 }
 
 .panel-smallness {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-style: italic;
   margin-bottom: 10px;
   color: #555;

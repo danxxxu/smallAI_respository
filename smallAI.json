@@ -1331,11 +1331,10 @@
   },
   {
     "project_name": "The Hope",
-    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "values": "creative, privacy, on-device/offline, ecological, low compute",
     "value_clusters": [
       "Small Data, Big Impact",
-      "Open Source, Low-Compute, High-Performance",
-      "Indigenous-led Models"
+      "Open Source, Low-Compute, High-Performance"
     ],
     "project_url": "https://substack.com/home/post/p-190142741",
     "type_of_project": "Application/Artwork",
@@ -1343,17 +1342,16 @@
     "self-description_of_\"smallness\"": "Everything is locally-hosted, with all computational processes happening on-device, and there are no data center calls involved in the operation of The Hope. ",
     "self-description:_what_&_who_it_is_useful_for": "The Hope is a small interactive ‘smart home’ touchscreen device, demonstrating an alternative approach to AI technologies that focuses on equitable and low-power use, supporting under-served communities, without tech companies and without indulging in the myth of ‘intelligence’.",
     "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
-    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "strategies,_values_(multiple,_comma_separated)": "creative, privacy, on-device/offline, ecological, low compute",
     "notes": "Climate imaginary",
     "umbrella_category": "Applications & End-User Agents"
   },
   {
     "project_name": "The Horizon",
-    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "values": "creative, privacy, on-device/offline, ecological, low compute",
     "value_clusters": [
       "Small Data, Big Impact",
-      "Open Source, Low-Compute, High-Performance",
-      "Indigenous-led Models"
+      "Open Source, Low-Compute, High-Performance"
     ],
     "project_url": "https://wesleygoatley.substack.com/p/18-the-horizon",
     "type_of_project": "Application/Artwork",
@@ -1361,17 +1359,16 @@
     "self-description_of_\"smallness\"": "The LLM at the core of this work does function in a low-powered way, using recycled tools, to achieve things that are of genuine use to  people, such as advice on how to better feed yourself and others.",
     "self-description:_what_&_who_it_is_useful_for": "a hacked Kindle, a disassembled Amazon Echo, an  old Raspberry Pi computer, and solar panels all jury-rigged together to make a recycled, low-power version of the AI consumer tech of today. ",
     "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
-    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "strategies,_values_(multiple,_comma_separated)": "creative, privacy, on-device/offline, ecological, low compute",
     "notes": "Climate imaginary",
     "umbrella_category": "Applications & End-User Agents"
   },
   {
     "project_name": "The Harbinger",
-    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "values": "creative, privacy, on-device/offline, ecological, low compute",
     "value_clusters": [
       "Small Data, Big Impact",
-      "Open Source, Low-Compute, High-Performance",
-      "Indigenous-led Models"
+      "Open Source, Low-Compute, High-Performance"
     ],
     "project_url": "https://wesleygoatley.substack.com/p/17-the-harbinger",
     "type_of_project": "Application/Artwork",
@@ -1379,17 +1376,16 @@
     "self-description_of_\"smallness\"": "The Harbinger is built from a custom enclosure containing a single-board computer (Jestson Orin Nano) that runs entirely offline.",
     "self-description:_what_&_who_it_is_useful_for": "The device listens to patient and GP conversations to make inscrutable ‘smart AI-powered analyses’ of the patient’s needs,  diagnoses, prescriptions, and necessary appointments, bypassing the GP’s  opinion in favour of Palantir-branded ‘automated care’",
     "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
-    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "strategies,_values_(multiple,_comma_separated)": "creative, privacy, on-device/offline, ecological, low compute",
     "notes": "Climate imaginary",
     "umbrella_category": "Applications & End-User Agents"
   },
   {
     "project_name": "Critical Climate Computing",
-    "values": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "values": "creative, privacy, on-device/offline, ecological, low compute",
     "value_clusters": [
       "Small Data, Big Impact",
-      "Open Source, Low-Compute, High-Performance",
-      "Indigenous-led Models"
+      "Open Source, Low-Compute, High-Performance"
     ],
     "project_url": "https://criticalclimatecomputing.com/index.html ",
     "type_of_project": "Research program",
@@ -1397,7 +1393,7 @@
     "self-description_of_\"smallness\"": "The practices we are developing and fostering at the CCC focus on carbon and technological literacy around computational systems and their uses, promoting uses of them in arts and design practice that modify, hack, or employ these tools in ways that reduce consumption, minimise waste, and engage with their hidden functionalities to propose mindful and critically reflexive engagements with them.",
     "self-description:_what_&_who_it_is_useful_for": "We want to foster practices that acknowledge the climate crisis as a hyperobject that intersects with many forms of disempowerment and injustice around the world, allowing for a wide range of social, racial, and economic justices to be understood in relation to the climatic. ",
     "sources_(where_did_you_find_it?_news_articles_and_scientific_papers_mentioning_it)": "Social media",
-    "strategies,_values_(multiple,_comma_separated)": "creative, data sovereignty, privacy, on-device/offline, ecological, low compute",
+    "strategies,_values_(multiple,_comma_separated)": "creative, privacy, on-device/offline, ecological, low compute",
     "notes": "Climate imaginary",
     "umbrella_category": "Communities & Initiatives"
   }

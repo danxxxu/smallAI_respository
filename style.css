@@ -34,7 +34,7 @@ h3,
 /* Body text / panel description */
 body,
 .panel-description {
-  font-family: system-ui, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 body {

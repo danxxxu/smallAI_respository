@@ -157,6 +157,25 @@ let allData = [];
 // Close panel
 closePanel.onclick = () => panel.classList.remove("open");
 
+const mainTitle = document.getElementById("main-title");
+
+mainTitle.onclick = () => {
+  const about = document.getElementById("about-content");
+
+  panelTitle.textContent = "What is Small AI";
+  panelDescription.innerHTML = about.innerHTML;
+
+  panelValues.innerHTML = "";
+  panelSmallness.textContent = "";
+  panelUmbrella.textContent = "";
+  panelUmbrella.parentElement.style.display = "none";
+  panelOrg.textContent = "";
+  panelOrg.parentElement.style.display = "none";
+  panelLink.style.display = "none";
+
+  panel.classList.add("open");
+};
+
 // Toggle filter tags
 function toggleFilter(tagEl, value, set) {
   if (set.has(value)) {
@@ -302,7 +321,7 @@ function renderProjects(data) {
 
   contributeCard.onclick = () => {
     // redirect user or open modal
-    window.open("https://your-form-link.com", "_blank");
+    window.open("https://forms.gle/wGKSWTN4mtdRj8J46", "_blank");
   };
 
   contributeWrapper.appendChild(contributeCard);

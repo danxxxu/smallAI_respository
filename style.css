@@ -277,3 +277,26 @@ h2 {
   background: #f0f0f0;
   border-color: #555;
 }
+
+.clickable-title {
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 0;
+}
+
+.title-arrow {
+  margin-left: 6px;
+  transition: transform 0.2s ease;
+  display: inline-block;
+}
+
+.clickable-title:hover .title-arrow {
+  transform: translateX(4px);
+}
+
+.panel-footer {
+  margin-top: 40px;
+  font-size: 0.7rem;     
+  opacity: 0.6;         
+  line-height: 1.4;
+}
